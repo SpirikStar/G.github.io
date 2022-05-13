@@ -47,6 +47,9 @@ body {
     color: #3f3f3f;
     font-weight: 600;
 }
+.activate{
+    color: #3B5EDC;
+}
 
 .banner {
     margin-top: 32px;
